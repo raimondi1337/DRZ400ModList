@@ -1,14 +1,13 @@
 # DRZ400 Mod List
 ##The list of all the stupid shit I've done to my bike.
 
---------------------------
-
 ### Pending 
 * ThumperTalk Case Savers
 * Kick Start Kit
 * Moty 4x1 QD Battery
 * Yamaha Raptor manual petcock
 
+--------------------------
 
 ### Fueling, Intake and Exhaust
 * MRD Z-PRO Full System (shorty)
@@ -20,9 +19,6 @@
 ### Protection
 * Zeta Armor Handguards
 * Zeta Armor Handguard Mounts (side-type)
-
-
-### Body
 
 ### Controls
 * Moose Racing stainless brake lines
@@ -42,7 +38,6 @@
 * DRC Edge 2 Integrated tail light and flashers
 * Oxford Original Heated Grips
 * 12v Accessory Plug
-
 
 ### Accessories
 * RAM X-Grip phone mount
