@@ -6,6 +6,8 @@
 * Kick Start Kit
 * Moty 4x1 QD Battery
 * Yamaha Raptor manual petcock
+* Zeta Comp Stabilizer bar clamp
+* Powermadd Star handguard mirrors
 
 --------------------------
 
