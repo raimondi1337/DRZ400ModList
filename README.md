@@ -2,12 +2,10 @@
 ##The list of all the stupid shit I've done to my bike.
 
 ### Pending 
-* ThumperTalk Case Savers
-* Kick Start Kit
 * Moty 4x1 QD Battery
-* Yamaha Raptor manual petcock
-* Zeta Comp Stabilizer bar clamp
-* Powermadd Star handguard mirrors
+* ThumperTalk Skid Plate
+* More powder coating/anodizing
+
 
 --------------------------
 
@@ -17,15 +15,20 @@
 * JD Jet Kit (160 main / 22.5 pilot / 3rd clip / blue needle)
 * Extended Fuel Screw
 * IMS 4.0 Tank (black)
+* Yamaha Raptor Manual Petcock
 
 ### Protection
 * Zeta Armor Handguards
 * Zeta Armor Handguard Mounts (side-type)
+* ThumperTalk Case Savers
 
 ### Controls
 * Moose Racing stainless brake lines
 * Zeta Pivot Levers
 * Renthal Fatbar
+* Zeta RX2 Bar Clamps
+* Kick Starter Kit
+* PowerMadd Star Handguard Mirrors
 
 ### Drive
 * 15T Front Sprocket
@@ -43,6 +46,7 @@
 
 ### Accessories
 * RAM X-Grip phone mount
+* Custom dashboard bracket
 
 ###Aesthetic
 * Black Satin Powder Coating
