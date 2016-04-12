@@ -49,6 +49,7 @@
 * RAM X-Grip phone mount
 * Custom dashboard bracket
 * Battery box delete
+* Seat Concepts Lo Seat
 
 ###Aesthetic
 * Black Satin Powder Coating
