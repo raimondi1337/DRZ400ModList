@@ -3,6 +3,7 @@
 
 ### Pending
 * ThumperTalk Skid Plate
+* Tool tube
 * Anodizing rear brake lever, skid plate, kick start lever, shift lever
 
 
@@ -47,6 +48,7 @@
 ### Accessories
 * RAM X-Grip phone mount
 * Custom dashboard bracket
+* Battery box delete
 
 ###Aesthetic
 * Black Satin Powder Coating
