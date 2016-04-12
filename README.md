@@ -1,10 +1,9 @@
 # DRZ400 Mod List
 ##The list of all the stupid shit I've done to my bike.
 
-### Pending 
-* Moty 4x1 QD Battery
+### Pending
 * ThumperTalk Skid Plate
-* More powder coating/anodizing
+* Anodizing rear brake lever, skid plate, kick start lever, shift lever
 
 
 --------------------------
@@ -43,6 +42,7 @@
 * DRC Edge 2 Integrated tail light and flashers
 * Oxford Original Heated Grips
 * 12v Accessory Plug
+* Moty 4x1 QD Battery
 
 ### Accessories
 * RAM X-Grip phone mount
