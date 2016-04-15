@@ -2,9 +2,7 @@
 ##The list of all the stupid shit I've done to my bike.
 
 ### Pending
-* ThumperTalk Skid Plate
 * Tool tube
-* Anodizing rear brake lever, skid plate, kick start lever, shift lever
 
 
 --------------------------
@@ -21,6 +19,7 @@
 * Zeta Armor Handguards
 * Zeta Armor Handguard Mounts (side-type)
 * ThumperTalk Case Savers
+* ThumperTalk Skid Plate
 
 ### Controls
 * Moose Racing stainless brake lines
@@ -60,3 +59,6 @@
 	* Rear Wheel
 	* Rear Hub
 	* Front Hub
+* Black Anodozing
+	* Custom dashboard bracket
+	* ThumperTalk Skid Plate (hard coat)
