@@ -59,6 +59,6 @@
 	* Rear Wheel
 	* Rear Hub
 	* Front Hub
-* Black Anodozing
+* Black Anodizing
 	* Custom dashboard bracket
 	* ThumperTalk Skid Plate (hard coat)
