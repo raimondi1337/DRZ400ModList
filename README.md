@@ -51,6 +51,7 @@
 * Seat Concepts Lo Seat
 
 ###Aesthetic
+* ProBolt Black Aluminium Bolt Kit
 * Black Satin Powder Coating
 	* Swingarm
 	* Frame
