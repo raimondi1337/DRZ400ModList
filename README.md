@@ -2,9 +2,7 @@
 ##The list of all the stupid shit I've done to my bike.
 
 ### Pending
-* Tool tube
-
-
+* 
 --------------------------
 
 ### Fueling, Intake and Exhaust
@@ -49,6 +47,7 @@
 * Custom dashboard bracket
 * Battery box delete
 * Seat Concepts Lo Seat
+* Tool tube
 
 ###Aesthetic
 * ProBolt Black Aluminium Bolt Kit
