@@ -48,6 +48,8 @@
 * Battery box delete
 * Seat Concepts Lo Seat
 * Tool tube
+* Giant Loop Great Basin
+* Giant Loop Buckin Roll (v1)
 
 ###Aesthetic
 * ProBolt Black Aluminium Bolt Kit
