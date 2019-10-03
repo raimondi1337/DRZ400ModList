@@ -1,8 +1,8 @@
 # DRZ400 Mod List
-##The list of all the stupid shit I've done to my bike.
+## The list of all the stupid shit I've done to my bike.
 
 ### Pending
-* 
+* FCR39MX (purchased)
 --------------------------
 
 ### Fueling, Intake and Exhaust
@@ -51,7 +51,7 @@
 * Giant Loop Great Basin
 * Giant Loop Buckin Roll (v1)
 
-###Aesthetic
+### Aesthetic
 * ProBolt Black Aluminium Bolt Kit
 * Black Satin Powder Coating
 	* Swingarm
